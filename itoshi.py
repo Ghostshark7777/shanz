@@ -1,5 +1,5 @@
 import requests;ses = requests.Session() 
- import os,sys,subprocess 
+ import os,sys
  from bs4 import BeautifulSoup as parser 
   
  ##-----FITUR GLOBAL---### 
